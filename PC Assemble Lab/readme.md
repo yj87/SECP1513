@@ -1,4 +1,4 @@
-# **PC ASSEMBLE**
+# **PC ASSEMBLE LAB**
 
 A lab on PC assemble was carried out on 6<sup>th</sup> November 2024, Monday at N28. The aim of this lab is to familiarize students 
 with the hardware component of the computer and introduced the simple steps to disassemble and assemble the PC. 
