@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/e4ba4615-10e2-4484-9594-7e6457e78666
 https://github.com/user-attachments/assets/5b05226e-443e-4b37-ab45-29f2ad9a1328
 
 ## **Outcomes**
-Throughout this lab, steps and ways to disassemble and assemble a PC were acquired, for example, to disassemble a PC, we have to start by:
+Throughout this lab, skills to disassemble and assemble a PC were acquired, for example, to disassemble a PC, we have to start by:
 1. Open the casing.
 2. Unplug all the cables.
 3. Remove the power supply unit.
