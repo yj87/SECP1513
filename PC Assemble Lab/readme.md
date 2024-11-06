@@ -1,4 +1,4 @@
-# **PC ASSEMBLE LAB**
+# **PC ASSEMBLE LAB :desktop_computer:**
 
 ## **Introduction**
 A PC assembly lab was conducted on 6<sup>th</sup> November 2024, Monday at N28. This lab aims to familiarize students 
@@ -40,4 +40,6 @@ Moreover, we have learned about hardware components such as HDD, CPU Fan, RAM, a
 
 
 ## **Comment :slightly_smiling_face:**
-It was an interesting
+It was an interesting experience because I never had a chance to explore the system chassis and unit of the PC. I have gained lots of hands-on experience with PC assembly and touch those hardware components in real life. I would like to thank my lecturer and the technician in charge for giving me a valuable chance to assemble the PC, last but not least, my teammates who cooperated in helping us to become the first group to pass the lab! :gift_heart:
+
+![WhatsApp Image 2024-11-06 at 10 03 57_be73a461](https://github.com/user-attachments/assets/badaf19b-0827-45c0-aae4-bbdbb5cb96d2)
