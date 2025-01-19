@@ -1,7 +1,6 @@
 # Self Reflection✨😎
-<img src="https://github.com/user-attachments/assets/7317167c-d3ad-4712-b4fc-5af1c4883623" alt="Sample Image" width="410" height="500">
-<img src="https://github.com/user-attachments/assets/5502079f-5f48-4b65-be55-80bb226d9083" alt="Sample Image" width="410" height="500">
-
+<img src="https://github.com/user-attachments/assets/269c19f9-a839-4efc-abfa-e606a0011d14" alt="Sample Image" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/c905bf86-4b65-4f6e-a9b4-106f49a832b0" alt="Sample Image" width="400" height="400">
 
 This semester has been one of considerable learning and growth. Through the course, I could get hands-on practice in using design thinking for the solving of real-world problems. The project dealing with vending machine technologies' enhancement using AI and IoT highlighted much on effectively responding to users and operators. I also enhanced my critical thinking and problem-solving skills, especially in identifying core issues and designing innovative solutions. Furthermore, this teamwork developed my teamwork and communication skills, and the tasks of prototyping and testing developed further learning about technology applications such as AI-driven inventory management and IoT-based monitoring systems.
 
