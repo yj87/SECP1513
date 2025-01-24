@@ -6,3 +6,7 @@ The introduction to smart agriculture virtually made it possible to get acquaint
 To improve, things such as practical experiments or AI tools that are interactive and make the learning process more entertaining and practical might be included. Moreover, a discussion about the difficulties encountered during AI application in agriculture and the potential solutions available would facilitate greater understanding.\
 \
 All things considered, the introduction was enriching and it completely shifted my perception of the way technology can impact existing global challenges regarding food security and environmental sustainability, the key factor fluctuating the future of agriculture.
+### Photo of the Introduction
+![image](https://github.com/user-attachments/assets/8f015f05-56ea-44f3-8c77-3a8166f22d57)
+![image](https://github.com/user-attachments/assets/e8ef52f7-9591-4d49-8504-72fd1e2bafc2)
+
